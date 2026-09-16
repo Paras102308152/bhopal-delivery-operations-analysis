@@ -1,10 +1,10 @@
-Bhopal Quick-Commerce Logistics & SLA Performance Dashboard
+## Bhopal Quick-Commerce Logistics & SLA Performance Dashboard
 
 An interactive logistics analytics dashboard and data pipeline built to audit dark store performance, delivery turnaround times (TAT), and SLA compliance across Bhopal localities.
 
 ---
 
- Summary
+## Summary
 In the quick-commerce sector (e.g., Blinkit, Swiggy Instamart, Zomato), meeting a strict  30-minute delivery SLA  is paramount to customer retention and unit economics. This portfolio project analyzes 5,000+ delivery records across Bhopal to identify dark store bottlenecks, peak-hour congestion, platform disparities (Zomato vs. Swiggy), and localized SLA breaches.
 
 ---
