@@ -27,3 +27,15 @@ The project is structured around core operational challenges faced by rapid-deli
 4.  Platform Benchmarking (Window Functions):  Uses advanced SQL window functions (`DENSE_RANK()`) to rank and contrast performance metrics across platforms.
 
 ---
+
+## Key Findings & Metrics
+
+Locality Bottlenecks: Bairagarh records the highest average delivery time at 40.80 minutes.
+
+SLA Breaches: Indrapuri suffers the worst breach rate, with 84.83% of orders exceeding the 30-minute window.
+
+Peak Hours: Hour 10 experiences the longest system-wide delivery delays, averaging 41.77 minutes.
+
+Platform Split: Swiggy's slowest zone is Bairagarh (41.74 mins), whereas Zomato's is Berasia Road (41.31 mins).
+
+---
